@@ -420,6 +420,18 @@ const GlobalStyle = createGlobalStyle`
     height: 100%;
   }
 
+  #assinatura {
+    stroke-dasharray: 272;
+    stroke-dashoffset: 272;
+    animation: assinatura 4s infinite forwards;
+  }
+  
+  @keyframes assinatura {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+
   ${TransitionStyles};
 
   ${PrismStyles};
