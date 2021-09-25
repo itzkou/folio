@@ -421,8 +421,8 @@ const GlobalStyle = createGlobalStyle`
   }
 
   #assinatura {
-    stroke-dasharray: 272;
-    stroke-dashoffset: 272;
+    stroke-dasharray:  100;
+    stroke-dashoffset:  800;
     animation: assinatura 4s infinite forwards;
   }
   
