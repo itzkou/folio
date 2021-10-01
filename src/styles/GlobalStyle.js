@@ -421,14 +421,16 @@ const GlobalStyle = createGlobalStyle`
   }
 
   #assinatura {
-    stroke-dasharray:  80;
-    stroke-dashoffset:  1000;
-    animation: assinatura 4s infinite forwards;
+    stroke-dasharray:  148;
+    stroke-dashoffset:  0;
+    animation: assinatura 2s infinite forwards;
   }
-  
   @keyframes assinatura {
-    to {
-      stroke-dashoffset: 0;
+    40% {
+      stroke-dashoffset: -140;
+    }
+    100% {
+      stroke-dashoffset: 20;
     }
   }
 
