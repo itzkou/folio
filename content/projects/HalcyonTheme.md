@@ -1,14 +1,19 @@
 ---
-date: '2017-12-27'
-title: 'Halcyon Theme'
+date: '2021-07-30'
+title: 'Fisaa'
 github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://halcyon-theme.netlify.com/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - MVVM
+  - Hilt
+  - SSOT
+  - Kotlin coroutines
+  - Flow API
+  - Retrofit
+  - Firestore
+  - Room
+  - Node.js
+  - MongoDB
 showInProjects: false
 ---
 

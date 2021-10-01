@@ -1,6 +1,6 @@
 ---
-date: '2018-12-18'
-title: 'Spotify Profile'
+date: '2021-08-02'
+title: 'CATU (Phase Indicator)'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:

@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'CATU'
 cover: './demo.png'
 github: 'https://github.com/bchiang7/spotify-profile'
 external: 'https://spotify-profile.herokuapp.com/'
@@ -12,4 +12,4 @@ tech:
   - Heroku
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A mobile app relying on android BLE for visualizing characteristics of three-phase electric power such as phase rotation, engine rotation, battery level, graph of tensions and phase change. The android app acts as a GATT client that consusmes the main service of CATU (MS153) and it's outsourced to a french agency specialzed in IoT.
