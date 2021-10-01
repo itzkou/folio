@@ -1,12 +1,11 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
+date: '2020-03-01'
+title: 'Web Developer'
+company: 'ISI'
 location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+range: 'March - April 2020'
+url: 'http://www.isi.rnu.tn/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
+- Developed and maintained code for my university clubs to manage events on campus
 - Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
