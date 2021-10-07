@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Java', 'Android', 'Kotlin', 'Node.js', 'Javascript', 'Django'];
+  const skills = ['Java/Kotlin', 'Android', 'Python', 'Node.js', 'Javascript', 'Django'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

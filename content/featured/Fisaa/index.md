@@ -19,4 +19,4 @@ tech:
   - SSOT
 ---
 
-A crowdsourced parcel delivery app. Available on [Github](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode) with restrictive access. Make sure you checkout the trailer here [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A crowdsourced parcel delivery app. Available on [Github](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode) with restrictive access. I followed the latest app architecture [architecture](https://developer.android.com/jetpack/guide?gclid=CjwKCAjwtfqKBhBoEiwAZuesiNXLlabBqVNWOM5x1OP5pTUMhVin_D6mxOpnrKbtKysXBSQRrAevyBoCByMQAvD_BwE&gclsrc=aw.ds) by Android community to deliver a robust app.

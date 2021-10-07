@@ -17,4 +17,4 @@ tech:
   - Laravel
 ---
 
-Uniclub is an event mangement application for students around campus. I developed this project during my Bachelor's degree pursuit, it was both an ancredible and enriching experience. I collaborated with creative designers and web developers in order to conceive, implement and deploy the final version of 'Uniclub'
+Uniclub is an event mangement application for students around campus. I developed this project during my Bachelor's degree pursuit, I collaborated with creative designers and web developers in order to conceive, implement and deploy the final version of 'Uniclub'
