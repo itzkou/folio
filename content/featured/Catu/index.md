@@ -5,8 +5,8 @@ cover: './demo.png'
 github: ''
 external: ''
 tech:
-  - Android BLE
-  - BGXpress Framework
+  - BLE
+  - BGXpress
   - Java
   - IoT
   - MVC
