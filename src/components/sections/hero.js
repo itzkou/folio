@@ -17,6 +17,7 @@ const StyledHeroSection = styled.section`
   }
 
   h1 {
+    padding-top: 18vh;
     margin: 0 0 30px 4px;
     color: var(--green);
     font-family: var(--font-mono);
