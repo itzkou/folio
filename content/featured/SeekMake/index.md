@@ -6,7 +6,6 @@ github: 'https://github.com/itzkou/seekmake-android.git'
 external: 'https://seekmake.com/home'
 cta: ''
 tech:
-  - Android
   - MVVM
   - LiveData
   - Firebase

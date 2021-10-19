@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Fisaa'
 cover: './halcyon.png'
 github: 'https://github.com/itzkou/fisaa-android.git'
