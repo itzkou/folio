@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <div>Designed &amp; Built by Koutheir Elbehi</div>
+        <div>Koutheir Elbehi</div>
 
         {githubInfo.stars && githubInfo.forks && (
           <div className="github-stats">
