@@ -3,7 +3,8 @@ date: '2'
 title: 'Fisaa'
 cover: './halcyon.png'
 github: 'https://github.com/itzkou/fisaa-android.git'
-external: 'https://fisaafinal.herokuapp.com/'
+external: 'https://www.behance.net/gallery/119496593/Fisaa'
+
 tech:
   - MVVM
   - Hilt

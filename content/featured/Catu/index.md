@@ -3,7 +3,7 @@ date: '1'
 title: 'CATU'
 cover: './demo.png'
 github: ''
-external: ''
+external: 'https://www.behance.net/gallery/130361547/CATU'
 tech:
   - BLE
   - BGXpress
