@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Generally free coding resources for beginners in Node.js and android. The project relies on React and docusaurus.
+Generally free coding resources for beginners in Node.js and android. The project relies on React and docusaurus. My contribution to this repository was done during [HacktoberFest](https://hacktoberfest.digitalocean.com/)

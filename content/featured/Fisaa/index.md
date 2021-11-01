@@ -20,4 +20,4 @@ tech:
   - SSOT
 ---
 
-A crowdsourced parcel delivery app. Available on [Github](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode) with restrictive access. I followed the latest app [architecture](https://developer.android.com/jetpack/guide?gclid=CjwKCAjwtfqKBhBoEiwAZuesiNXLlabBqVNWOM5x1OP5pTUMhVin_D6mxOpnrKbtKysXBSQRrAevyBoCByMQAvD_BwE&gclsrc=aw.ds) by the android community to deliver a robust app.
+A crowdsourced parcel delivery app. Available on [Github](https://github.com/itzkou/fisaa-android.git) with restrictive access. I followed the latest app [architecture](https://developer.android.com/jetpack/guide?gclid=CjwKCAjwtfqKBhBoEiwAZuesiNXLlabBqVNWOM5x1OP5pTUMhVin_D6mxOpnrKbtKysXBSQRrAevyBoCByMQAvD_BwE&gclsrc=aw.ds) by the android community to deliver a robust app.

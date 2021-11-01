@@ -1,14 +1,16 @@
 ---
-date: '2019-11-12'
-title: 'Sample'
-github: 'ii'
-external: 'https://www.upstatement.com/work/moms-demand-action/'
-ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'
-android: 'https://play.google.com/store/apps/details?id=com.momsdemandaction.app'
+date: '2020-05-1'
+title: 'Newspaper'
+github: 'https://github.com/itzkou/Newspaper.git'
+external: ''
+ios: ''
+android: ''
 tech:
-  - NativeScript Vue
-  - iOS
-  - Android
-company: 'Upstatement'
+  - Python
+  - django
+  - Bootstrap
+company: ''
 showInProjects: false
 ---
+
+A simple medium clone using django and bootstrap. The project was inspired from William Vincent's django for beginners book.
