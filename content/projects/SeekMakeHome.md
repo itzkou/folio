@@ -3,7 +3,7 @@ date: '2019-07-15'
 title: 'SeekMakeHome'
 github: 'https://github.com/itzkou/seekmake-home'
 external: 'https://seekmake.com/home'
-android: 'https://play.google.com/store/apps/details?id=com.kou.seekmake&hl=en&gl=US'
+android: ''
 tech:
   - Bootstrap
   - Html

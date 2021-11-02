@@ -14,7 +14,7 @@ tech:
   - Material Design
   - Laravel
 company: 'Orange'
-showInProjects: false
+showInProjects: true
 ---
 
 Uniclub is an event mangement application for students around campus.
