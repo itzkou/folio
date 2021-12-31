@@ -1,6 +1,6 @@
 ---
 date: '2020-07-01'
-title: 'Android Developer'
+title: 'Software engineer intern'
 company: 'SeekMake'
 location: 'Redspace Tunisia'
 range: 'July - December 2020'

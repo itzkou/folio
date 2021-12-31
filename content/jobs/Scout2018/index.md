@@ -1,6 +1,6 @@
 ---
 date: '2021-01-01'
-title: 'Android | Web Developer'
+title: 'Software engineer intern'
 company: 'MobilePowered'
 location: 'Technopole El Ghazela'
 range: 'January - July 2021'

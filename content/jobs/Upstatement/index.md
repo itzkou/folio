@@ -1,6 +1,6 @@
 ---
 date: '2021-08-02'
-title: 'Android BLE Developer'
+title: 'Software engineer'
 company: 'Telnet'
 location: 'Lake of Tunis'
 range: 'August 2021 - Present'
