@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Koutheir Elbehi',
     description:
-      'Koutheir Elbehi is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+      'Koutheir Elbehi is a software engineer who specializes in building web and android apps.',
+    siteUrl: 'https://elbehikoutheir.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: 'itzdevkou',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
