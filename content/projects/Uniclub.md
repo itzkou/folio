@@ -4,7 +4,7 @@ title: 'Uniclub'
 github: 'https://github.com/itzkou/uniclub.git'
 external: 'https://www.behance.net/gallery/108608375/Uniclub-Trailer'
 tech:
-  - Android SDK
+  - Android
   - MVC
   - Firebase
   - Kotlin

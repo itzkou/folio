@@ -7,7 +7,7 @@ external: 'https://www.behance.net/gallery/108608375/Uniclub-Trailer'
 cta: ''
 company: 'Orange Tunisia'
 tech:
-  - Android SDK
+  - Android
   - MVC
   - Firebase
   - Kotlin

@@ -13,4 +13,4 @@ tech:
   - Kotlin
 ---
 
-SeekMake is The first online platform in Tunisia which allows its customers to benefit from the services of CNC machines (3D printing, milling, and laser cutting). This application is dedicated to creators all over the 3D printing community that is based in Tunis.
+SeekMake is The first online platform in Tunisia which allows its customers to benefit from the services of CNC machines (3D printing, milling, and laser cutting). This application is dedicated to creators all over the 3D printing community that is based in Tunisia.
