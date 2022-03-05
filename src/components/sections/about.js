@@ -145,7 +145,7 @@ const About = () => {
               I’ve had the privilege of working at{' '}
               <a href="https://www.orange.tn/">a leading international mobile operator</a>,{' '}
               <a href="https://seekmake.com/">a start-up</a>,{' '}
-              <a href="http://mobilepowered.tn/">a mobile app devdelopment agency</a>, and{' '}
+              <a href="http://mobilepowered.tn/">an offshore agency</a>, and{' '}
               <a href="https://www.groupe-telnet.com/">an offshore software engineering company</a>{' '}
               for a variety of clients.
             </p>
