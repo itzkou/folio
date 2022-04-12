@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Java/Kotlin', 'Android', 'Python', 'Node.js', 'Javascript', 'Django'];
+  const skills = ['Android', 'Node.js', 'Django', 'MongoDB', 'Express.js', 'Postgresql'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -146,16 +146,8 @@ const About = () => {
               <a href="https://www.orange.tn/">a leading international mobile operator</a>,{' '}
               <a href="https://seekmake.com/">a start-up</a>,{' '}
               <a href="http://mobilepowered.tn/">an offshore agency</a>, and{' '}
-              <a href="https://www.groupe-telnet.com/">an offshore software engineering company</a>{' '}
-              for a variety of clients.
-            </p>
-
-            <p>
-              I also{' '}
-              <a href="https://drive.google.com/file/d/1MHnbYXoLEjHoQzJF9WIb3btDvKnp01Pt/view?usp=sharing">
-                launched a series of courses for my university club
-              </a>{' '}
-              that covers the latest architecture components in android.
+              <a href="https://www.groupe-telnet.com/">an IoT engineering company</a> for a variety
+              of clients.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

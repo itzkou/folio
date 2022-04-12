@@ -66,9 +66,9 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building exceptional digital experiences. Currently,
-        I’m focused on building IoT applications at{' '}
-        <a href="https://www.groupe-telnet.com/" target="_blank" rel="noreferrer">
-          Telnet
+        I’m focused on building field management application at{' '}
+        <a href="https://fr.linkedin.com/company/digitarm/" target="_blank" rel="noreferrer">
+          Digitarm
         </a>
         .
       </p>
