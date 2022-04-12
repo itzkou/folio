@@ -3,7 +3,7 @@ date: '2021-08-02'
 title: 'Software engineer'
 company: 'Telnet'
 location: 'Lake of Tunis'
-range: 'August 2021 - Present'
+range: 'August - March 2022'
 url: 'https://www.groupe-telnet.com/'
 ---
 
