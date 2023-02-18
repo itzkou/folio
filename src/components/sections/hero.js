@@ -60,15 +60,23 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Koutheir Elbehi.</h2>;
-  const three = <h3 className="big-heading">I build web and android apps.</h3>;
+  const two = <h2 className="big-heading">Koutheir Elbehi</h2>;
+  const three = (
+    <h3 className="big-heading">
+      I build mobile apps{' '}
+      <span role="img" aria-label="Love">
+        📱
+      </span>
+    </h3>
+  );
+
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building exceptional digital experiences. Currently,
-        I’m focused on building field management application at{' '}
-        <a href="https://fr.linkedin.com/company/digitarm/" target="_blank" rel="noreferrer">
-          Digitarm
+        I’m a mobile engineer specializing in building exceptional digital experiences. Currently,
+        I’m focused on developing and maintaining 'MyBiat' a financial app at{' '}
+        <a href="https://www.value.com.tn/" target="_blank" rel="noreferrer">
+          Value Digital Services
         </a>
         .
       </p>
@@ -77,10 +85,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.behance.net/elbehikoutheir"
+      href="https://play.google.com/store/apps/details?id=tn.com.biat.mybiat&hl=en&gl=US&pli=1"
       target="_blank"
       rel="noreferrer">
-      Check out my apps!
+      Check out MyBiat app!
     </a>
   );
 
