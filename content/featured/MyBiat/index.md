@@ -5,16 +5,16 @@ cover: './mybiat.png'
 github: ''
 external: 'https://www.biat.com.tn/'
 cta: ''
-company: 'Telnet Holding'
+company: 'Value'
 tech:
   - Android
-  - MVI
+  - MVP/MVVM
   - Kotlin
   - Material Design
-  - Sonarqube
+  - CI/CD
   - Code Coverage
   - SAST
   - Multi-module architecture
 ---
 
-SoftAtHome products power digital home services, running directly on the cloud or on devices (home gateways, set-top boxes, OTT boxes, NAS, Wi-Fi extenders and repeaters, IoT hubs, home energy displays, smart speakers, and more. ). SoftAtHome products are based on open standards and utilize an open ecosystem to provide operators (telcos, broadcasters, energy providers, insurance companies, etc.) with a wide range of services to delight customers with the best technology available for the digital home.
+This experience has taught me a lot, from managing a large scale mobile banking application to interacting with a wonderful team that aims to serve a consistent codebase and satisfy clients in my homeland. The workflow at Value allowed me to get more consistent experience in agile projects thanks to scrum principles that are perfectly applied here. I am so honored to be part of this experience. Currently I am responsible of migrating the application to jetpack compose and maintain its performance by using native tools and profilers.
