@@ -3,7 +3,7 @@ date: '2022-04-01'
 title: 'Android Engineer'
 company: 'Digitarm'
 location: 'Lake of Tunisia'
-range: 'April 2022 - present'
+range: 'April  - June  2022'
 url: 'https://fr.linkedin.com/company/digitarm/'
 ---
 

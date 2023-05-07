@@ -140,16 +140,6 @@ const About = () => {
               expertise. I always care for details and try to turn genuine ideas into meaningful
               projects.
             </p>
-
-            <p>
-              I’ve had the privilege of working at{' '}
-              <a href="https://www.orange.tn/">a leading international mobile operator</a>,{' '}
-              <a href="https://seekmake.com/">a start-up</a>,{' '}
-              <a href="http://mobilepowered.tn/">an offshore agency</a>, and{' '}
-              <a href="https://www.groupe-telnet.com/">an IoT engineering company</a> for a variety
-              of clients.
-            </p>
-
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
